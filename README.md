@@ -5,11 +5,10 @@ My macropad for 3D Modelling with 12 keys in a 4x4 cross, 1 rotary encoder and a
 ## Features:
 - 8 SK6812 MINI-E LEDs for dynamic LED effects
   - Rainbow / Custom Gradient
-  - Music Reactive
   - Static Colour
 - 1 EC11 Rotary Encoder to control volume with a custom printed dial
 - 12 Individually Addressable Keys in a 4x4 cross
-- [KMK Firmware](https://github.com/kmkfw/kmk_firmware) to allow for web-app control and memory after restart
+- [QMK Firmware](https://github.com/qmk/qmk_firmware) to allow for web-app control and memory after restart
 
 ## Overview
 
