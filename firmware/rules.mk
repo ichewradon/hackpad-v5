@@ -1,0 +1,14 @@
+# MCU name
+MCU = RP2040
+
+# Bootloader selection
+BOOTLOADER = rp2040
+
+# Build Options
+SPLIT_KEYBOARD = no
+DIRECT_PINS_ENABLE = yes
+ENCODER_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+WS2812_DRIVER = vendor
+LTO_ENABLE = yes
+EEPROM_ENABLE = yes
